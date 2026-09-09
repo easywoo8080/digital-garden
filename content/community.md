@@ -1,5 +1,5 @@
 ---
-title: Welcome community
+title: community
 draft: false
 tags:
 ---

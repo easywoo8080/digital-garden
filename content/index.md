@@ -14,7 +14,7 @@ tags:
 
 ## 📌 주요 카테고리
 
-* [개발 노하우](<Development Tips>)
+* [개발 노하우](<Development_Tips>)
 * [[트러블슈팅]]
 * [[독서 노트]]
 
