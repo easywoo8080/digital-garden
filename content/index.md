@@ -12,6 +12,14 @@ tags:
 
 ---
 
+# 메인 페이지
+
+Quartz 설치가 완료되었습니다. 아래 링크들을 통해 다른 문서로 이동할 수 있습니다.
+
+* **Wiki-link 방식 (권장):** [[notes/first-post|첫 번째 글 읽기]]
+* **Standard Markdown 방식:** [첫 번째 글 읽기](./notes/first-post)
+
+
 ## 📌 주요 카테고리
 
 * [개발 노하우](<Development_Tips>)
