@@ -1,6 +1,6 @@
 ---
 title: community
-draft: true
+draft: false
 tags:
 ---
 
