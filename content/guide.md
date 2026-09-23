@@ -1,4 +1,8 @@
 ---
+title: text write guide
+draft: false
+tags:
+---
 
 # Cheat Sheet
 | 기호 | 의미 | 사용 예시 |
